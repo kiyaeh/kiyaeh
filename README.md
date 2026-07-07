@@ -242,14 +242,15 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyaeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2DD4BF&icon_color=0f9b8e"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyaeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyaeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyaeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kiyaeh&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=0f9b8e&currStreakLabel=2DD4BF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyaeh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
